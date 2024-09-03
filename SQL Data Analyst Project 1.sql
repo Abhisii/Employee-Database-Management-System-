@@ -1,5 +1,3 @@
-use employees;
-
 SELECT * FROM employees;
 
 -- 1. List of Employees by Department
